@@ -1,4 +1,4 @@
-# Zio-Qwiic-Gesture-Sensor-PAJ7620U2
+# Zio Qwiic Gesture Sensor (PAJ7620U2)
 
 ![](gesture.png)
 
